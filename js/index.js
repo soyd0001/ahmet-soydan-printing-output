@@ -60,6 +60,6 @@ var first_name = 'Ahmet';
 var last_name = 'Soydan';
 var email = 'soyd0001@algonquinlive.com';
 var output;
-output = 'My name is ' + first_name + ' ' + last_name + '.' + 'You can contact me at ' +  email;
+output = 'My name is ' + first_name + ' ' + last_name + '. ' + 'You can contact me at ' +  email;
 
 alert(output);
